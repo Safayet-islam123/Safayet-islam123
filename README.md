@@ -2,9 +2,9 @@
 
 🎓 First-year Information Engineering student at **Takushoku University**, Tokyo, Japan
 🌏 Originally from Barisal, Bangladesh
-💡 Long-term goal: Become an IT engineer & entrepreneur, building a bridge between Japan and Bangladesh
-📖 Currently working towards JLPT N1
-
+🏙️　Living in Hachioji, Tokyo, Japan
+💡 Long-term goal: Become an Software engineer & entrepreneur, building a bridge between Japan and Bangladesh
+📖 Currently working towards JLPT N1 (Japanese language proficiency test)
 ---
 
 ### 🛠️ Tech Stack
@@ -34,4 +34,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/safayet.islam.313371)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/safayetislam10/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Safayet_13)
+
+---
+📩 Email: safayetislam2004@gmail.com
+
 
